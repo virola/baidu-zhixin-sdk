@@ -1,0 +1,17 @@
+{
+	"name": "baidu-zhixin-sdk",
+	"title": "baidu-zhixin-sdk",
+	"description": "For ecom fe to develop template",
+	"version": "2.0.0",
+	"author": {
+		"name": "sekiyika"
+	},
+	"dependencies": {
+        "edp-webserver": ">=0.4.13",
+        "glob": "~3.2.7"
+    },
+	"keywords": [ "baidu-zhixin-sdk" ],
+    "bin": {
+        "baidu-zhixin-sdk": "./bin/cli"
+    }
+}
