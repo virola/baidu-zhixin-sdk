@@ -4,11 +4,15 @@
 	"description": "For ecom fe to develop template",
 	"version": "2.0.0",
 	"author": {
-		"name": "sekiyika"
+        "name": "sekiyika"
 	},
 	"dependencies": {
         "edp-webserver": ">=0.4.13",
-        "glob": "~3.2.7"
+        "glob": "3.2.7",
+        "chalk": "~0.3.0",
+        "semver": "~1.1",
+        "npm-registry-client": "~0.2.18",
+        "npmconf": "~0.1.1"
     },
 	"keywords": [ "baidu-zhixin-sdk" ],
     "bin": {
