@@ -28,8 +28,6 @@ baidu-zhixin-sdk已经发布到npm上，可以通过下面的npm命令来安装�
 
 如下
 
-    ```shell
-    baidu-zhixin-sdk start --port=8080
-    ```
+    $ baidu-zhixin-sdk start --port=8080
 
 
